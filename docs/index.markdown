@@ -4,4 +4,7 @@
 
 layout: home
 author_profile: true
+recent: false
+related: false
 ---
+

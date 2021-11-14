@@ -4,12 +4,6 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Pictures"
-    url: /pictures/
-  - title: "Contact"
-    url: /contact/
-  - title: "Sitemap"
-    url: /sitemap/
   
 # sidebar navigation list sample
 sidebar-sample:
